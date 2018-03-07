@@ -1,0 +1,3 @@
+魅族推送的定速参数为fixSpeed与fixSpeedRate
+默认fixSpeedRate为500， 表示1秒钟推500设备
+fixSpeedRate的上限随应用变化，默认最大值为500
